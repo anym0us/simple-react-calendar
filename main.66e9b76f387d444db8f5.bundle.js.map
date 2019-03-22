@@ -1,0 +1,1 @@
+{"version":3,"file":"main.66e9b76f387d444db8f5.bundle.js","sources":["webpack:///./src/calendar/_lib/index.js"],"sourcesContent":["import PropTypes from 'prop-types'\n\nexport const datePropType = PropTypes.oneOfType([PropTypes.number, PropTypes.string, PropTypes.instanceOf(Date)])\n"],"mappings":"AAEA","sourceRoot":""}
