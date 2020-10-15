@@ -98,7 +98,7 @@
     "lint-staged": "^8.1.5",
     "mockdate": "^2.0.2",
     "prettier": "^1.9.2",
-    "react-test-renderer": "^16.8.4",
+    "react-test-renderer": "^16.14.0",
     "style-loader": "^0.23.1",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
@@ -118,8 +118,8 @@
   "dependencies": {
     "classnames": "^2.2.5",
     "date-fns": "^1.27.2",
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "react-prop-types": "^0.4.0"
   }
 }
